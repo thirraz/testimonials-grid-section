@@ -18,7 +18,7 @@ const App = () => {
           <img
             src={quoteIcon}
             alt="quotation icon"
-            className="w-32 h-32 absolute right-5 lg:right-16 top-0 z-10"
+            className="w-32 h-32 absolute right-5 lg:right-32 top-0 z-10"
           />
           <div className="user-infos">
             <img
