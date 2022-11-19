@@ -31,7 +31,7 @@ const App = () => {
               <p className="text-verySmall opacity-60">Verified Graduate</p>
             </div>
           </div>
-          <h1 className="text-h1Size mb-6 font-bold relative z-20">
+          <h1 className="text-h2Size mb-6 font-bold relative z-20">
             I received a job offer mid-course, and the subjects I learned were
             current, if not more so, in the company I joined. I honestly feel I
             got every penny's worth.
