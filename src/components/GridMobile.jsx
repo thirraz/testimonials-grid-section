@@ -12,7 +12,7 @@ import kira from "../assets/images/image-kira.jpg";
 export const GridMobile = () => {
   return (
     <main className="w-full h-auto flex flex-col items-center bg-blue-100 font-barlow pb-24">
-      <div className="grid grid-flow-row grid-row-5 grid-col-1 gap-4 text-white w-90pc mt-8">
+      <div className="grid grid-flow-row grid-rows-5 grid-cols-1 md:grid-cols-4 gap-4 text-white w-90pc mt-8">
         {/* user 1 */}
         <article className="card bg-violet-700 relative ">
           <img
