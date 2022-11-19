@@ -70,7 +70,7 @@ const App = () => {
           </q>
         </article>
         {/* user 3 */}
-        <article className="card bg-white lg:col-start-1">
+        <article className="card bg-white lg:col-start-1 shadow-2xl">
           <div className="user-infos">
             <img
               src={jeanette}
@@ -118,7 +118,7 @@ const App = () => {
           </q>
         </article>
         {/* user 4 */}
-        <article className="card bg-white lg:px-14 lg:row-start-1 lg:col-start-4 lg:row-span-2">
+        <article className="card bg-white lg:px-14 lg:row-start-1 lg:col-start-4 lg:row-span-2 shadow-xl">
           <div className="user-infos">
             <img
               src={kira}
