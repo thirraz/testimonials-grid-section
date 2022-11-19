@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+@tailwind variants;
+
+.user-infos {
+	@apply w-full h-auto flex items-center mb-4;
+}
+
+.user-icon {
+	@apply w-8 h-8 rounded-full mt-2 mr-3 border-2;
+}
+
+.card {
+	@apply w-auto h-auto p-12 py-8 md:py-3 rounded-xl;
+}
